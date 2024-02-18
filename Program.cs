@@ -9,3 +9,9 @@ Console.WriteLine("Вводите только числа или латинск�
 
 string[] arr = new string[size];
 Random rand = new Random();  
+//вторая часть программы
+for (int i = 0; i < size; i++)
+{
+    Console.Write($"Вводите элемент номер {i+1}: ");
+    arr[i] = Console.ReadLine();
+}
