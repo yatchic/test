@@ -15,3 +15,6 @@ for (int i = 0; i < size; i++)
     Console.Write($"Вводите элемент номер {i+1}: ");
     arr[i] = Console.ReadLine();
 }
+//третья часть программы
+int rand_number = rand.Next(1, 4);
+string[] arrNew = new string[rand_number];  
