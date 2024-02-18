@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("android")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1572f8dfd91b29c35dfd20c7f30b4a1e546b003")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4abee16204a5b60b43828db886f52c5c17a5e892")]
 [assembly: System.Reflection.AssemblyProductAttribute("android")]
 [assembly: System.Reflection.AssemblyTitleAttribute("android")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
