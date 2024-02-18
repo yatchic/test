@@ -22,3 +22,4 @@ for (int i = 0; i < arrNew.Length; i++)
 {
     Console.Write($"{arrNew[i]} ");
 }
+//
