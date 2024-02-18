@@ -18,3 +18,12 @@ for (int i = 0; i < size; i++)
 //третья часть программы
 int rand_number = rand.Next(1, 4);
 string[] arrNew = new string[rand_number];  
+//четвертая часть программы
+for(int i = 0; i < arrNew.Length; i++){
+    arrNew[i] = arr[i];
+}
+
+for (int i = 0; i < arrNew.Length; i++)
+{
+    Console.Write($"{arrNew[i]} ");
+}

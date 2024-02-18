@@ -12,3 +12,4 @@ C:\android\obj\Debug\net6.0\refint\android.dll
 C:\android\obj\Debug\net6.0\android.pdb
 C:\android\obj\Debug\net6.0\android.genruntimeconfig.cache
 C:\android\obj\Debug\net6.0\ref\android.dll
+C:\android\obj\Debug\net6.0\android.sourcelink.json
