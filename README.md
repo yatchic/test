@@ -10,4 +10,4 @@
 5. Заполняет новый массив первыми элементами исходного массива.
 6. Выводит элементы нового массива.
 
-![схема описывающая логику программы]([контрольная работа.drawio.png](https://github.com/yatchic/test/blob/test/контрольная%20работа.drawio.png)https://github.com/yatchic/test/blob/test/контрольная%20работа.drawio.png)
+![схема описывающая логику программы](https://github.com/yatchic/test/blob/test/контрольная%20работа.drawio.png)
